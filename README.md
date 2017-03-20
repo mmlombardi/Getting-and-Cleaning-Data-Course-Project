@@ -6,8 +6,6 @@ This project serves to demonstrate the collection and cleaning of a tidy data se
 
 Project Summary
 
-The following is a summary description of the project instructions
-
 You should create one R script called run_analysis.R that does the following.
 
 Merges the training and the test sets to create one data set.
